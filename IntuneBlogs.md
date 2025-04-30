@@ -1,5 +1,5 @@
-https://www.inthecloud247.com/rss/
-https://ccmexec.com/rss/
+https://www.inthecloud247.com/rss/<br>
+https://ccmexec.com/rss/<br>
 https://smbtothecloud.com/rss/
 https://365bythijs.be/rss/
 https://www.call4cloud.nl/rss/
