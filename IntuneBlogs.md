@@ -1,60 +1,60 @@
-https://www.inthecloud247.com/rss/
+https://www.inthecloud247.com/
 
-https://ccmexec.com/rss/
+https://ccmexec.com/
 
-https://smbtothecloud.com/rss/
+https://smbtothecloud.com/
 
-https://365bythijs.be/rss/
+https://365bythijs.be/
 
-https://www.call4cloud.nl/rss/
+https://www.call4cloud.nl/
 
-https://cloudfil.ch/blog/feed/
+https://cloudfil.ch/
 
-https://scloud.work/feed/
+https://scloud.work/
 
-https://manage-the.cloud/feed/
+https://manage-the.cloud/
 
-https://andrewstaylor.com/rss
+https://andrewstaylor.com/
 
-https://www.nigniewok.tech/feed/
+https://www.nielskok.tech/
 
-https://www.anoopcnair.com/rss
+https://www.anoopcnair.com/
 
-https://mikemdm.de/feed/
+https://mikemdm.de/
 
-https://joostgelijsteen.com/feed/
+https://joostgelijsteen.com/
 
-https://skotheimsvik.no/rss
+https://skotheimsvik.no/
 
-https://endpointcave.com/rss/
+https://endpointcave.com/
 
-https://www.thelazyadministrator.com/rss/
+https://www.thelazyadministrator.com/
 
-https://thiagobeier.wordpress.com/rss
+https://thiagobeier.wordpress.com/
 
-https://intuneirl.com/rss/
+https://intuneirl.com/
 
-https://www.msendpointmgr.com/rss
+https://www.msendpointmgr.com/
 
-https://oliverkieselbach.com/rss/
+https://oliverkieselbach.com/
 
-https://jannikreinhard.com/rss
+https://jannikreinhard.com/
 
-https://www.simsenblog.dk/feed/
+https://www.simsenblog.dk/
 
-https://oofhours.com/rss
+https://oofhours.com/
 
-https://petervanderwoude.nl/rss/
+https://petervanderwoude.nl/
 
-https://rahuljindalmyit.blogspot.com/feeds/posts/default
+https://rahuljindalmyit.blogspot.com/
 
-https://piesik.me/feed/
+https://piesik.me/
 
-https://shehanperera.com/rss/
+https://shehanperera.com/
 
-https://ugurkoc.de/rss
+https://ugurkoc.de/
 
-https://oceanleaf.ch/rss/
+https://oceanleaf.ch/
 
-https://www.burgerhout.org/rss/
+https://www.burgerhout.org/
 
